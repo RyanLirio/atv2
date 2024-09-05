@@ -1,0 +1,14 @@
+C:\Users\430344\desktop\atividade2\jeaggerArray\bin\Debug\net8.0\jeaggerArray.exe
+C:\Users\430344\desktop\atividade2\jeaggerArray\bin\Debug\net8.0\jeaggerArray.deps.json
+C:\Users\430344\desktop\atividade2\jeaggerArray\bin\Debug\net8.0\jeaggerArray.runtimeconfig.json
+C:\Users\430344\desktop\atividade2\jeaggerArray\bin\Debug\net8.0\jeaggerArray.dll
+C:\Users\430344\desktop\atividade2\jeaggerArray\bin\Debug\net8.0\jeaggerArray.pdb
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\jeaggerArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\jeaggerArray.AssemblyInfoInputs.cache
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\jeaggerArray.AssemblyInfo.cs
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\jeaggerArray.csproj.CoreCompileInputs.cache
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\jeaggerArray.dll
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\refint\jeaggerArray.dll
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\jeaggerArray.pdb
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\jeaggerArray.genruntimeconfig.cache
+C:\Users\430344\desktop\atividade2\jeaggerArray\obj\Debug\net8.0\ref\jeaggerArray.dll
