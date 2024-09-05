@@ -12,6 +12,17 @@ numbers[2] = new int[] {1, 2, 0};
 numbers[3] = new int[] {57};
 numbers[4] = null!;
 
-bool? teste = null!;
+//para obter valor de jeaggerArray
+ 
+ 
+ 
+ 
+ 
+ 
+    int valor = numbers[0][2];
+    ConsoleWrite.Line($"valor")
 
- ConsoleWrite.Line($"")
+    number[1][2] = 0;
+    ConsoleWrite.Line($"number")
+
+
